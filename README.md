@@ -1,0 +1,2 @@
+# findLargestElement
+The given code defines a JavaScript function findLargestElement(nestedArray) that takes a nested array of numbers and finds the largest element within it. The function initializes the largest variable with the value of the first element of the nested array, then iterates through each sub-array and each number within those sub-arrays to update the largest variable whenever a larger number is found. Finally, the function returns the largest element.
